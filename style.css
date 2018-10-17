@@ -1,0 +1,338 @@
+
+nav {
+    background-color: #C12127;
+    color: rgba(255,255,255,0.8);
+    
+  }
+  
+nav a {
+    color: rgba(255,255,255,0.8);
+    text-decoration: none;
+}
+
+.body {
+    font-family: "Lucida Grande" ,"sans-serif";
+}
+
+.top-links {
+    float: right;
+    padding: 20px;
+    margin: 0 20px 0 0;
+}
+.top-links li {
+    display: inline-block;
+    margin: 0 10px;
+    
+}
+.top-left{
+    display: inline-block;
+    padding: 20px;
+    margin: 0 20px 0 0;
+
+}
+button {
+    color: #1D4E69;
+    display: contents;
+}
+
+
+#header{
+    background-image: url(https://static.npmjs.com/images/hero-cityscape.svg);
+    background-color: #1D4E69;
+    background-size: 100% 100%;
+    padding: 10px 20px 200px 20px;
+
+}
+
+.header-image{
+    vertical-align: middle;
+}
+.search-part{
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding: top 0;
+    margin: 5px auto;
+}
+
+input[type="text"]{
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid #1D4E69;
+    width: 70%;
+    background: #1D4E69;
+}
+.enter-search{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    width: 70%;
+    padding: 10px;
+    font-size: 17px;
+    border: 1px solid #1D4E69;
+    width: 70%;
+    background: rgb(31, 82, 111);
+}
+
+.log-in{
+    font-size: 1rem;
+    text-decoration: none;
+    padding: 0.30rem;
+    color: white;
+    font-weight: 600;
+    background-color: transparent;
+    white-space: nowrap;
+    text-align: right;
+    display: inline;
+    padding-left: 3%;
+}
+
+.sign-up{
+    font-size: 1rem;
+    text-decoration: none;
+    padding: 0.30rem;
+    color:white;
+    font-weight: 600;
+    background-color: transparent;
+    white-space: nowrap;
+    text-align: right;
+    
+    
+
+}
+.build-part{
+    font-size: 1.25rem;
+    color: #f4f4f4;
+    font-weight: 200;
+    font-family: "Lucida Grande" ,"sans-serif";
+    box-sizing: border-box;
+
+}
+.col1{
+    align-self: auto;
+    /*width: 40%;*/
+}
+
+h1{
+    font-family: "Lucida Grande" ,"sans-serif";
+    font-weight: 200;
+    width: 100%;
+    font-size: 3rem;
+    padding-left: 100px;
+}
+p{
+    font-family: "Open Sans", "sans-serif";
+    float: left;
+    width: 100%;
+    font-size: 1.25rem;
+    padding-top: 0.5rem;
+    padding-left: 100px;
+}
+.link-btn1{
+    color: #f4f4f4;
+    background-color: #f09233;
+    font-family: "Lucida Grande" ,"sans-serif";
+    font-weight: 500;
+    border-radius: 20px;
+    font-size: 18px;
+    padding: 7px 18px 8px 18px;
+    border: 1px solid transparent;
+    text-decoration: none;
+    display: inline-block;   
+    margin-left: 100px;
+}
+
+#section1{
+    background-color:#273547;
+    color:white;
+    font-family: "sans-serif";
+    height:-webkit-fill-available;
+    padding-top: 100px;
+    padding-left: 120px;
+
+}
+.text2{
+    letter-spacing: 0em;
+    float: right;
+    margin: 0 auto;
+    font-size: 1.5rem;
+    margin-top: 0;
+    font-weight: 50;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: inherit;
+    padding-right: 200px;
+    
+}
+.link-btn2{
+    background-color: rgb(203, 56, 55);
+    font-family: "Lucida Grande" ,"sans-serif";
+    font-weight: 500;
+    border-radius: 20px;
+    font-size: 18px;
+    padding: 7px 18px 8px 18px;
+    border: 1px solid transparent;
+    text-decoration: none;
+    display: inline-block;   
+    color: white;
+    display: inline-block;
+    line-height: 1.35;
+    width: 40%;
+    text-align: center;
+    margin: inherit;
+    padding-bottom: .5%;
+    margin-bottom: 0%;
+}
+.link-learn-more{
+    color: white;
+    text-decoration: none;
+    padding-top: 0%;
+    margin-bottom: 0%;
+
+}
+    
+}
+.list{
+    color: white;
+    font-size: 1.25rem;
+    display: list-item;
+    text-align: -webkit-match-parent;
+    font-weight: 400;
+    font-family: sans-serif;
+    float: right;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    box-sizing: border-box;
+    line-height: 1.5;
+}
+#section2{
+    background-image:url(https://static.npmjs.com/images/npm-is-BOXES.svg);
+    background-size: 100% 100%;
+    padding: 10px 20px 200px 20px;
+    background-color: #206F9C;
+
+}
+.what-is{
+    color: white;
+    font-family: 'Source Sans Pro', 'Lucida Grande', sans-serif;
+    font-size: 2.5rem;
+    padding-left: 200px;
+    padding-top: 100px;
+}
+.text3{
+    color: white;
+    font-family: 'Source Sans Pro', 'Lucida Grande', sans-serif;
+    padding-left: 200px;
+    padding-top: 5px;
+
+}
+.link-btn3{
+    background-color: rgb(49, 68, 88);
+    font-family: "Lucida Grande" ,"sans-serif";
+    font-weight: 500;
+    border-radius: 20px;
+    font-size: 18px;
+    padding: 7px 18px 8px 18px;
+    border: 1px solid transparent;
+    text-decoration: none;
+    display: inline-block;   
+    color: white;
+    line-height: 1.35;
+    text-align: center;
+    position: relative;
+   
+
+}
+#section3{
+    background-color: white;
+    font-family:"Lucida Grande" ,"sans-serif";
+}
+
+.section3-head{
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: .25rem;
+    font-weight: 200;
+    font-size: xx-large;
+    color: rgb(83, 88, 98);
+
+}
+.text4{
+    text-align: center;
+    padding-top: inherit;
+    padding-left: 2%;
+    display: content;
+    font-weight: 50;
+    padding-bottom: 6%;
+    color: rgb(83, 88, 98);
+}
+.information{
+    text-align:justify;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    font-family: "Open Sans", "OpenSans", "sans-serif";
+    line-height: 1.15;
+    font-style: initial;
+    color: rgb(83, 88, 98);
+    
+
+}
+.col{
+    float: left;
+    
+}
+.col-middle{
+    margin: 0% 5%;
+
+}
+col3{
+    width: 30%
+
+}
+h3{
+    font-size: 1.5rem;
+    text-align: center;
+    padding-top: 15%;
+    font-style: initial;
+    color: rgb(83, 88, 98);
+}
+.text5{
+    color:rgb(83, 88, 98);
+
+}
+.binoculars-imagen{
+    padding-left: 10rem;
+}
+
+.mountain-imagen{
+    padding-left: 10rem;
+
+}
+.rucksack-imagen{
+    padding-left: 10rem;
+
+}
+.clearfix{
+    clear: both;
+}
+.linkjQuery {
+    color: rgb(208, 74, 73);
+    text-decoration: none;
+}
+.Bootstrap {
+    color: rgb(208, 74, 73);
+    text-decoration: none;
+}
+.React {
+    color: rgb(208, 74, 73);
+    text-decoration: none;
+}
+.Angular {
+    color: rgb(208, 74, 73);
+    text-decoration: none;
+}
+.Ember {
+    color: rgb(208, 74, 73);
+    text-decoration: none;
+}
